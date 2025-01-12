@@ -5,29 +5,30 @@ This repository contains my completed certifications and learning materials acro
 
 ## Certifications & Course Completions
 
-### Programming & Development
-- React Basics (HackerRank)
-- JavaScript Fundamentals (HackerRank)
-- GitHub Learning Path
-
 ### Data & Analytics
 - SQL (HackerRank)
-  - Basic Level
-  - Intermediate Level
-  - Advanced Level
-- Power BI (Beginner to Pro Workshop)
-- Data Science (EIT)
+  - [Basic Level](https://github.com/lakshaykamat/certifications/blob/main/sql_basic%20-%20Hackerrank.pdf)
+  - [Intermediate Level](https://github.com/lakshaykamat/certifications/blob/main/sql_intermediate%20-%20Hackerrank.pdf)
+  - [Advanced Level](https://github.com/lakshaykamat/certifications/blob/main/sql_advanced%20-%20Hackerrank.pdf)
+- [Power BI (Beginner to Pro Workshop)](https://github.com/lakshaykamat/certifications/blob/main/Power%20BI%20Beginner%20to%20Pro%20Workshop%20%20-%20Pragmatic%20Works.pdf)
+- [Data Science (EIT)](https://github.com/lakshaykamat/certifications/blob/main/Data%20Science%20-%20EIT.pdf)
+
+### Programming & Development
+- [JavaScript Fundamentals (HackerRank)](https://github.com/lakshaykamat/certifications/blob/main/javascript_basic%20-%20Hackerrank.pdf)
+- [GitHub Learning Path](https://github.com/lakshaykamat/certifications/blob/main/Gituhb%20-%20Great%20Learning.pdf)
+
 
 ### Web Development & Design
-- UI Path Certification
-- Digital Marketing (COE)
+- [React Basics (HackerRank)](https://github.com/lakshaykamat/certifications/blob/main/react_basic%20-%20Hackerrank.pdf)
+- [UI Path Certification](https://github.com/lakshaykamat/certifications/blob/main/UI%20Path.pdf)
+- [Digital Marketing (COE)](https://github.com/lakshaykamat/certifications/blob/main/Digital%20Marketing%20-%20COE.pdf)
 
 ### Professional Skills
-- Communication Skills (COE)
-- Soft Skills (NPTEL)
+- [Communication Skills (COE)](https://github.com/lakshaykamat/certifications/blob/main/Communication%20Skills%20-%20COE.pdf)
+- [Soft Skills (NPTEL)](https://github.com/lakshaykamat/certifications/blob/main/Soft%20Skills%20-%20NPTEL%20.pdf)
 
 ### Industrial Experience
-- Entrepreneur Industrial Visit (NSIC)
+- [Entrepreneur Industrial Visit (NSIC)](https://github.com/lakshaykamat/certifications/blob/main/Entrepreneur%20Industrial%20Visit%20-%20NSIC.pdf)
 
 ## 🚀 Skills Acquired
 Through these certifications, I've developed expertise in:
