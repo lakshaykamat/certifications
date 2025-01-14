@@ -10,9 +10,9 @@ This repository contains my completed certifications and learning materials acro
   - [Basic Level](https://github.com/lakshaykamat/certifications/blob/main/sql_basic%20-%20Hackerrank.pdf)
   - [Intermediate Level](https://github.com/lakshaykamat/certifications/blob/main/sql_intermediate%20-%20Hackerrank.pdf)
   - [Advanced Level](https://github.com/lakshaykamat/certifications/blob/main/sql_advanced%20-%20Hackerrank.pdf)
-  - [SQL Workshop]()
+  - [SQL Workshop](https://github.com/lakshaykamat/certifications/blob/main/SQL%20Workshop%20-%20Pragmatic%20Works.pdf)
 - [Power BI (Beginner to Pro Workshop)](https://github.com/lakshaykamat/certifications/blob/main/Power%20BI%20Beginner%20to%20Pro%20Workshop%20%20-%20Pragmatic%20Works.pdf)
-- [Data Science (EIT)](https://github.com/lakshaykamat/certifications/blob/main/Data%20Science%20-%20EIT.pdf)
+- [Data Science (EIT)](https://github.com/lakshaykamat/certifications/blob/main/Data%20Science%20-%20EIT..pdf)
 - [DAX Function Workshop](https://github.com/lakshaykamat/certifications/blob/main/DAX%20Functions%20Workshop%20-%20Pragmatic%20Works.pdf)
 - [Excel Beginner To Pro](https://github.com/lakshaykamat/certifications/blob/main/Excel%20Beginner%20to%20Pro%20-%20Pragmatic%20Works.pdf)
 ### Programming & Development
