@@ -15,6 +15,7 @@ This repository contains my completed certifications and learning materials acro
 - [Data Science (EIT)](https://github.com/lakshaykamat/certifications/blob/main/Data%20Science%20-%20EIT..pdf)
 - [DAX Function Workshop](https://github.com/lakshaykamat/certifications/blob/main/DAX%20Functions%20Workshop%20-%20Pragmatic%20Works.pdf)
 - [Excel Beginner To Pro](https://github.com/lakshaykamat/certifications/blob/main/Excel%20Beginner%20to%20Pro%20-%20Pragmatic%20Works.pdf)
+- [Power Auotmate Beginner To Pro](https://github.com/lakshaykamat/certifications/blob/main/Power%20Automate%20Beginner%20to%20Pro%20Workshop%20-%20Lakshay%20Kamat.pdf)
 ### Programming & Development
 - [JavaScript Fundamentals (HackerRank)](https://github.com/lakshaykamat/certifications/blob/main/javascript_basic%20-%20Hackerrank.pdf)
 - [GitHub Learning Path](https://github.com/lakshaykamat/certifications/blob/main/Gituhb%20-%20Great%20Learning.pdf)
